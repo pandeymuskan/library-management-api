@@ -56,7 +56,7 @@ library-api/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/pandeymuskan/library-management-api.git
 cd library-api
 ```
 
